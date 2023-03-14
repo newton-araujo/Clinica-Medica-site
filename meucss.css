@@ -1,0 +1,72 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:50px;
+    text-align: center;
+    color: rgb(3, 82, 82);
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+    text-align: center;
+    color: rgb(3, 82, 82);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(3, 82, 82);
+}
+/*Menu barra lateral*/
+.menu a{ 
+    color: rgb(3, 82, 82);
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+}
+
+/*imagem do conteudo*/
+#hosp-ft{
+    width: 500px;
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 9px;
+    margin-top: 5%;
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#redes-sociais{
+    margin: 3%;
+}
+
+/*Tabela com horários e serviços*/
+
+table{
+    border: 1px solid rgb(3, 82, 82);
+    text-align: center;
+    padding: 20px;
+    margin-left: 25%;
+    background: rgb(3, 82, 82);
+}
+
+tr, td, th{
+    border: 1px solid rgb(3, 82, 82);
+    padding: 10px;
+    background: white;
+    cursor: pointer;
+}
+
+tr:hover, td:hover, th:hover{
+    background: rgb(3, 82, 82);
+    border: 1px solid white;
+}
+
+.atendimento{
+    margin-top: 10px;
+    margin-left: 22%;
+    border: 1px solid white;
+    border-radius: 9px;
+}
